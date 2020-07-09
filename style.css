@@ -10,9 +10,9 @@ h1, h2, h3 {
   font-family: Chivo;
 }
 
-
-
-
+h1{ 
+	font-size: 30px; 
+}
 
 
 a {
